@@ -819,7 +819,6 @@
   (module boardcomputer:L_5040 (layer F.Cu) (tedit 60B4E1D8) (tstamp 60B600A4)
     (at 117.3 62.9)
     (path /60B8B789)
-    (attr smd)
     (fp_text reference L1 (at -1.2 -3.3) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )

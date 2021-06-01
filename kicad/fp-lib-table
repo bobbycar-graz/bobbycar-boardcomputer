@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name otter)(type KiCad)(uri ../otter.pretty)(options "")(descr ""))
-  (lib (name boardcomputer)(type KiCad)(uri C:/Users/gernot.hehn/Downloads/bobbycar/bobbycar-boardcomputer-hardware/lib/boardcomputer.pretty)(options "")(descr ""))
+  (lib (name otter)(type KiCad)(uri ${KIPRJMOD}/boardcomputer.lib)(options "")(descr ""))
+  (lib (name boardcomputer)(type KiCad)(uri ${KIPRJMOD}/boardcomputer.pretty)(options "")(descr ""))
 )
