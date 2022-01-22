@@ -1,5 +1,4 @@
 (sym_lib_table
-  (lib (name tp4056)(type Legacy)(uri ../lib/tp4056.lib)(options "")(descr ""))
-  (lib (name otter)(type Legacy)(uri ../lib/otter.lib)(options "")(descr ""))
-  (lib (name bobbycar-rescue)(type Legacy)(uri ${KIPRJMOD}/bobbycar-rescue.lib)(options "")(descr ""))
+  (lib (name boardcomputer)(type Legacy)(uri ${KIPRJMOD}/boardcomputer.lib)(options "")(descr ""))
+  (lib (name otter)(type Legacy)(uri ${KIPRJMOD}/otter.lib)(options "")(descr ""))
 )
