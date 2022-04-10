@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name boardcomputer)(type Legacy)(uri ${KIPRJMOD}/boardcomputer.lib)(options "")(descr ""))
-  (lib (name otter)(type Legacy)(uri ${KIPRJMOD}/otter.lib)(options "")(descr ""))
+  (lib (name "boardcomputer")(type "KiCad")(uri "${KIPRJMOD}/boardcomputer.kicad_sym")(options "")(descr ""))
+  (lib (name "otter")(type "Legacy")(uri "${KIPRJMOD}/otter.lib")(options "")(descr ""))
 )
