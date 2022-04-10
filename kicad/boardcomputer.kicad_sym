@@ -67,11 +67,11 @@
       )
     )
   )
-  (symbol "DGD05473FN-7" (in_bom yes) (on_board yes)
+  (symbol "DGD0506AFN-7" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "DGD05473FN-7" (id 1) (at -7.62 6.35 0)
+    (property "Value" "DGD0506AFN-7" (id 1) (at -7.62 6.35 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "" (id 2) (at -1.27 0 0)
@@ -80,7 +80,7 @@
     (property "Datasheet" "" (id 3) (at -1.27 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "DGD05473FN-7_0_0"
+    (symbol "DGD0506AFN-7_0_0"
       (pin power_in line (at 0 8.89 270) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -126,7 +126,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "DGD05473FN-7_0_1"
+    (symbol "DGD0506AFN-7_0_1"
       (rectangle (start -7.62 6.35) (end 8.89 -6.35)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
