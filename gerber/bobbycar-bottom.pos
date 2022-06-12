@@ -1,0 +1,7 @@
+### Module positions - created on Sun Apr 17 18:48:09 2022 ###
+### Printed by Pcbnew version (6.0.0)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                PosX       PosY       Rot  Side
+BZ1       Buzzer    CP_Elec_18x22     -116.0000   -42.7000    0.0000  bottom
+## End
