@@ -1,0 +1,4 @@
+# KiCAD
+kicad/*-backups/
+kicad/*.kicad_prl
+kicad/*.bak
