@@ -516,6 +516,10 @@
     [
       "fb6a09a0-59ad-4d19-a51f-8816d804aa4a",
       "Buzzer"
+    ],
+    [
+      "b6980211-f442-4de0-bb84-59ef2105033e",
+      "3V3 Supply"
     ]
   ],
   "text_variables": {}
